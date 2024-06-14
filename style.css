@@ -12,10 +12,12 @@ justify-content: space-between;
 padding: 20px;
 }
 
-.cabecalho_imagem{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
+.cabecalho_menuitem{
+
+display: flex;
+text-transform: uppercase;
+margin-left: 20px;
+
 }
 
 .cabecalho_imagem{
