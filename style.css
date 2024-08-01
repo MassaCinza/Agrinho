@@ -46,8 +46,8 @@ align-items: center;
   padding: 20px;
 }
 .elementos__div{
-  text-align: center; height: 400px;
-  width: 400px;
+  text-align: center; 
+  height: 400px;
 }
 .elementos__imagem{
   width: 300px;
