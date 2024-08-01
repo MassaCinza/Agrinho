@@ -48,6 +48,7 @@ align-items: center;
 .elementos__div{
   text-align: center; 
   width: 400px;
+  border-radius: 10px;
 }
 .elementos__imagem{
   width: 300px;
